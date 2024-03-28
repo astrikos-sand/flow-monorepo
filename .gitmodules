@@ -1,0 +1,6 @@
+[submodule "astrikos"]
+	path = astrikos
+	url = https://github.com/nik-55/astrikos
+[submodule "astrikos-worker"]
+	path = astrikos-worker
+	url = https://github.com/anand817/astrikos-worker.git
