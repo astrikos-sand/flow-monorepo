@@ -1,0 +1,11 @@
+services:
+  backend:
+    networks:
+      - worker
+  
+  worker:
+    networks:
+      - worker
+
+networks:
+  worker:

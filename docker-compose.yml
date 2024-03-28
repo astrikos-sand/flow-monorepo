@@ -1,0 +1,3 @@
+include:
+  - astrikos/docker-compose.yml
+  - astrikos-worker/docker-compose.yml
