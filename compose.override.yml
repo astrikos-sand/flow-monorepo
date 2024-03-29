@@ -6,6 +6,10 @@ services:
   worker:
     networks:
       - worker
+  
+  celery:
+    networks:
+      - worker
 
 networks:
   worker:
